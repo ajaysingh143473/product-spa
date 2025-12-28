@@ -148,6 +148,35 @@ Since `localStorage` is not reactive, a custom browser event (`favoritesUpdated`
 
 ---
 
+
+## 📸 Screenshots
+
+### 🏠 Products Page
+![Products Page](screenshots/Products-Page.jpg)
+
+### ❤️ Favorites Page
+![Favorites Page](screenshots/Favorites-Page.jpg)
+
+### 🌙 Home Page – Dark Mode
+![Home Dark Mode](screenshots/HomePage-DarkMode.jpg)
+
+### ☀️ Home Page – Light Mode
+![Home Light Mode](screenshots/HomePage-LightMode.jpg)
+
+### 📱 Mobile Toggle Button View
+![Mobile Toggle](screenshots/Mobile-Toggle-Button-View.jpg)
+
+### 📱 Mobile View
+![Mobile View](screenshots/Mobile-View.jpg)
+
+### 📱 Mobile – Single Product
+![Mobile Single Product](screenshots/Mobile-View-Single-Product.jpg)
+
+### 📄 Product Details Page
+![Product Details](screenshots/Product-Details-Page.jpg)
+
+---
+
 ## 📦 How to Run the Project Locally
 
 ```bash
