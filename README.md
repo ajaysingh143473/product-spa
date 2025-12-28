@@ -148,23 +148,6 @@ Since `localStorage` is not reactive, a custom browser event (`favoritesUpdated`
 
 ---
 
-## 📸 Screenshots Checklist
-
-Include the following screenshots in the submission:
-
-1. Home Page (Light Mode)
-2. Home Page (Dark Mode)
-3. Products Page – Desktop View
-4. Products Page – Mobile View
-5. Product Detail Page
-6. Add to Favorites (Heart Active)
-7. Favorites Page
-8. Navbar with Favorites Badge
-9. Toast Notification (Top-Right)
-10. Empty Favorites Page (Optional)
-
----
-
 ## 📦 How to Run the Project Locally
 
 ```bash
