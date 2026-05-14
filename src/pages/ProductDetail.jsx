@@ -48,7 +48,7 @@ export default function ProductDetail() {
           <h3>{product.title}</h3>
           <p className="text-muted">{product.category}</p>
           <p>{product.description}</p>
-          <h4 className="text-success">₹ {product.price}</h4>
+          <h4 className="text-success">$ {product.price}</h4>
 
           <button
             onClick={handleFavorite}
